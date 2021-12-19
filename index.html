@@ -17,15 +17,16 @@
   <body>
     <h1>Notes App</h1>
 
-    <form id="form">
-  
-    <div class="mb-3">
-      <label for="exampleFormControlTextarea1" class="form-label">Content</label>
-      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-    </div>
-
-    <button type="button" class="btn btn-light">Post</button>
+    <form id="note-form">
+      
+    <p>
+      <textarea id="content" placeholder="Your content..." rows="8" cols="30"></textarea>
+    </p>
+      <button id="btn" type="button">Add note!</button>
     </form>
+
+
+    <div id='displayed-note'></div><br>
 
 
 
