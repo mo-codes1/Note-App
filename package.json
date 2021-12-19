@@ -1,0 +1,24 @@
+{
+  "name": "notes-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.14.5",
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-codes1/Note-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo-codes1/Note-App/issues"
+  },
+  "homepage": "https://github.com/mo-codes1/Note-App#readme"
+}
