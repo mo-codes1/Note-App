@@ -1,3 +1,22 @@
-body{
-  background-color: rgb(190, 50, 50);
+body {
+  background-color: rgb(22, 94, 70);
+  color: whitesmoke;
 }
+
+h1 {
+  font-family: 'Balsamiq Sans', cursive;
+  font-family: 'Moo Lah Lah', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 80px;
+  margin-left: 30px !important;
+}
+
+#form {
+  width: 30%;
+  margin-left: 70px !important;
+  margin-top: 80px !important;
+  border-style: groove;
+  border-radius: 10px;
+  padding: 20px;
+}
+
