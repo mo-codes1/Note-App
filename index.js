@@ -1,4 +1,5 @@
 const createNote = require('./createNote')
+const displayNotes = require('./displayNote')
 
 
 const noteContent = document.querySelector('#content');
@@ -13,3 +14,5 @@ button.addEventListener('click', (event) => {
   form.reset();
 
 });
+
+displayNotes();
